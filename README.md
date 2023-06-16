@@ -1,13 +1,13 @@
-<center>
+# Hi there!
 
 I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.
 
-If you want reach me:
+If you want to reach me:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brisolla/)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrebrisolla/)
 
-</center>
+
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/ambrisolla)
 [![Salt](https://img.shields.io/badge/salt-black?style=for-the-badge&logo=saltproject)](https://github.com/ambrisolla)
