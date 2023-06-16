@@ -1,11 +1,19 @@
 <center>
-<big>Hi there!</big>
+  <big>Hi there!</big>
 </center>
-<center>I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.
-<a href="https://www.linkedin.com/in/brisolla">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+<center>
+  I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.
+  
+  <div style='margin-top:10px'>
+    <a href="https://www.linkedin.com/in/brisolla">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+  </div>
+
 </center>
+
+
 
 ## Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
