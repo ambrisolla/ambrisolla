@@ -1,13 +1,16 @@
 <p style='text-align:center'><i>I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.</i></p>
 
-<center>If you want to reach me:
+<center>
+
+If you want to reach me:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brisolla/)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrebrisolla/)
 
-</center>
 
 
+
+Language and Tools
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/ambrisolla)
 [![Salt](https://img.shields.io/badge/salt-black?style=for-the-badge&logo=saltproject)](https://github.com/ambrisolla)
@@ -23,4 +26,5 @@
 [![GithubActions](https://img.shields.io/badge/githubactions-black?style=for-the-badge&logo=githubactions)](https://github.com/)
 [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/ambrisolla)
 
-<p style="text-align: center;">A piece of centered text</p>
+
+</center>
