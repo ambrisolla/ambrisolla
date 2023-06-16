@@ -23,7 +23,7 @@ Language and Tools
 [![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=Grafana)](https://github.com/ambrisolla)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=Docker)](https://github.com/ambrisolla)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=Flask)](https://github.com/ambrisolla)
-[![GithubActions](https://img.shields.io/badge/githubactions-black?style=for-the-badge&logo=githubactions)](https://github.com/)
+[![GithubActions](https://img.shields.io/badge/github&nbsp;actions-black?style=for-the-badge&logo=githubactions)](https://github.com/)
 [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/ambrisolla)
 
 
