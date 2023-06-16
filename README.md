@@ -18,3 +18,5 @@ If you want to reach me:
 [![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=Grafana)](https://github.com/ambrisolla)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=Docker)](https://github.com/ambrisolla)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=Flask)](https://github.com/ambrisolla)
+
+<p style="text-align: center;">A piece of centered text</p>
