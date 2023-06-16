@@ -15,4 +15,4 @@
   <tr><td>teste</td></tr>
 </table>
 
-<img onclick="alert()" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img onclick="window.location = 'https://globo.com'" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
