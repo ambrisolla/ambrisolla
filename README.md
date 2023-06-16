@@ -38,4 +38,4 @@
 
 ![ambrisolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambrisolla&show_icons=true&theme=radical)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrisolla&layout=compact&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrisolla&layout=compact&theme=radical)
