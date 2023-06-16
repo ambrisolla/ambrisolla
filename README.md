@@ -9,10 +9,5 @@
   - read something about technology (currently, I'm reading about Kubernetes);
 
 
-
-
-<table border="0px">
-  <tr><td>teste</td></tr>
-</table>
-
-<img onclick="window.location = 'https://globo.com'" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/tesss-teste-%23333">
+<img src="https://img.shields.io/badge/dynamic/json?color=vxc&label=df&prefix=vcx&query=vcx&suffix=vxc&url=vc">
