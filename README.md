@@ -9,5 +9,4 @@
   - read something about technology (currently, I'm reading about Kubernetes);
 
 
-<img src="https://img.shields.io/badge/tesss-teste-%23333">
-<img src="https://img.shields.io/badge/dynamic/json?color=vxc&label=df&prefix=vcx&query=vcx&suffix=vxc&url=vc">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://globo.com">
