@@ -1,6 +1,5 @@
 <center>
 
-Hi there!
 I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.
 
 <a href="https://www.linkedin.com/in/brisolla">
