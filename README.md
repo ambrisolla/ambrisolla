@@ -10,11 +10,7 @@
 
 
 
-<table>
-<tr>
-  <td>
-    <a href="https://www.linkedin.com/in/brisolla/" _target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    </td>
-</tr>
-</table>
 
+<table border="0px">
+  <tr><td>teste</td></tr>
+</table>
