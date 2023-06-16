@@ -9,4 +9,4 @@
   - read something about technology (currently, I'm reading about Kubernetes);
 
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://globo.com">
+<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white&url=https://www.linkedin.com/in/brisolla/">
