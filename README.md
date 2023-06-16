@@ -1,12 +1,14 @@
+## Hi there!
+
 <p style='text-align:center'><i>I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.</i></p>
 
 
-### If you want to reach me
+If you want to reach me
 
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brisolla/)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrebrisolla/)
 
-### Language and Tools
+Language and Tools
 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/ambrisolla)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/ambrisolla)
@@ -22,19 +24,19 @@
 [![GithubActions](https://img.shields.io/badge/github&nbsp;actions-black?style=for-the-badge&logo=githubactions)](https://github.com/)
 [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/ambrisolla)
 
-### Studing
+Studing
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes)](https://github.com/ambrisolla)
 [![aws](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)](https://github.com/ambrisolla)
 
 
-### Free time
+Free time
 
 [![spotify](https://img.shields.io/badge/spotify-black?style=for-the-badge&logo=spotify)](https://github.com/ambrisolla)
 [![playstation](https://img.shields.io/badge/playstation-black?style=for-the-badge&logo=playstation)](https://github.com/ambrisolla)
 [![netflix](https://img.shields.io/badge/netflix-black?style=for-the-badge&logo=netflix)](https://github.com/ambrisolla)
 
-### My stats
+My stats
 
 ![ambrisolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambrisolla&show_icons=true&theme=radical)
 
