@@ -22,6 +22,8 @@
 </tr>
 </table>
 
-
-
-
+<style>
+table td {
+  border: none !important;
+}
+</style>
