@@ -11,7 +11,17 @@
 
 :mag_right: If you want to reach me...
 
-<a style='float:left' href="https://www.linkedin.com/in/brisolla/" _target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<table>
+<tr>
+  <td>
+    <a style='float:left;margin-right:30px' href="https://www.linkedin.com/in/brisolla/" _target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    </td>
+  <td>
+  <a href="https://www.linkedin.com/in/brisolla/" _target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/brisolla/" _target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+
 
