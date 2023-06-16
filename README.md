@@ -1,9 +1,11 @@
-<p style='text-align:center'>I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.</p>
+<p style='text-align:center'><i>I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.</i></p>
 
-If you want to reach me:
+<center>If you want to reach me:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brisolla/)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrebrisolla/)
+
+</center>
 
 
 
@@ -18,5 +20,7 @@ If you want to reach me:
 [![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=Grafana)](https://github.com/ambrisolla)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=Docker)](https://github.com/ambrisolla)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=Flask)](https://github.com/ambrisolla)
+[![GithubActions](https://img.shields.io/badge/githubactions-black?style=for-the-badge&logo=githubactions)](https://github.com/)
+[![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/ambrisolla)
 
 <p style="text-align: center;">A piece of centered text</p>
