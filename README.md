@@ -9,9 +9,9 @@
   - read something about technology (currently, I'm reading about Kubernetes);
 
 
-:mag_right: If you want to reach me...
+:mag_right: Link if you want to reach me:
 
-<table border="0">
+<table>
 <tr>
   <td>
     <a style='float:left;margin-right:30px' href="https://www.linkedin.com/in/brisolla/" _target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -22,8 +22,3 @@
 </tr>
 </table>
 
-<style>
-table td {
-  border: none !important;
-}
-</style>
