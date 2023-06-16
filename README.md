@@ -1,17 +1,10 @@
-<center>
-  <big>Hi there!</big>
-</center>
-
-<center>
-  I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.
+## Hi there!
+I'm André Brisolla. Currently working as a DevOps Engineer at <a href="https://stone.com.br/">Stone Payments</a>.
   
-  <div style='margin-top:10px'>
-    <a href="https://www.linkedin.com/in/brisolla">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-  </div>
 
-</center>
+<a href="https://www.linkedin.com/in/brisolla">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
 
 
 
