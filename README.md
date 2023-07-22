@@ -37,7 +37,7 @@ Free time
 [![netflix](https://img.shields.io/badge/netflix-black?style=for-the-badge&logo=netflix)](https://github.com/ambrisolla)
 
 My stats
-
+<!--
 ![ambrisolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambrisolla&show_icons=true&theme=radical)
-
+-->
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrisolla&layout=compact&theme=radical)
