@@ -11,6 +11,7 @@ If you want to reach me
 Language and Tools
 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/ambrisolla)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/ambrisolla)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/ambrisolla)
 [![Salt](https://img.shields.io/badge/salt-black?style=for-the-badge&logo=saltproject)](https://github.com/ambrisolla)
 [![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)](https://github.com/ambrisolla)
