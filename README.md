@@ -24,9 +24,6 @@ Language and Tools
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=Flask)](https://github.com/ambrisolla)
 [![GithubActions](https://img.shields.io/badge/github&nbsp;actions-black?style=for-the-badge&logo=githubactions)](https://github.com/)
 [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/ambrisolla)
-
-Studing
-
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes)](https://github.com/ambrisolla)
 [![aws](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)](https://github.com/ambrisolla)
 
